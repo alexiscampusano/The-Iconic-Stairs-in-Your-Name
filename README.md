@@ -7,6 +7,8 @@ staircase, its role in the film's plot, and nearby attractions. The project
 uses HTML, CSS, and Bootstrap, and includes a responsive design that
 adapts to different screen sizes.
 
+![Screenshot of Your Name](/images/img-readme.png)
+
 ## Technologies Used
 - HTML
 - CSS
