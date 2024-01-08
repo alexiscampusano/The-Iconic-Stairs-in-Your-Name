@@ -1,4 +1,4 @@
-# "Your Name" Staircase Webpage
+# The Iconic Stairs in "Your Name"
 
 This project showcases the iconic red staircase from the Japanese
 animated film "Your Name" located in Suga Temple in Hida, Japan. The
