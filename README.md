@@ -27,7 +27,7 @@ map of the area surrounding Suga Temple, which provides visitors with a
 guide to explore the local attractions.
 
 ## Credits
-This project was created by [Alexis Campusano](https://github.com/aleecmp).
+This project was created by [Alexis Campusano](https://github.com/alexiscampusano).
 The images used in the project were sourced from various online resources.
 The webpage design was inspired by Bootstrap, and the project makes use of
 the Fancybox library for the image gallery and video player.
